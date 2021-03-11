@@ -51,17 +51,6 @@ Congratulations! You've successfully fixed the squirt the ~~clown~~ unicorn game
 
 Make sure you push your code up to github so we can all enjoy it!
 
-## Reflection
-
-Open `my-reflections-sprint-5.md` from your reflections file in VS Code, add a `Inflate The Unicorn` heading, and add the following reflection questions from this challenge.
-
-- Did you learn anything new during this exercise? What was it?
-
-- Did you encounter issues completing any of the steps of this exercise? How did you resolve this?
-
-- If you were to replace the unicorn with another mystical animal of your choice, what would it be?  
-
-Make sure you commit and push to GitHub.
 
 ## Stretch
 

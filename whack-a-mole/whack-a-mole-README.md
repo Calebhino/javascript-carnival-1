@@ -83,15 +83,6 @@ The last touch for our game is to add a [sound effect](https://www.developphp.co
 
 You're done! Push your code up to GitHub and Whack! That! Mole!
 
-## Reflection
-
-Open `my-reflections-sprint-5.md` in VS Code, add a `Whack-a-Mole` heading, and add the following reflection questions from this challenge.
-
-- What was the hardest part of this exercise? 
-
-- Can you think of any different ways you could have accomplished the same outcome? 
-
-Commit and push to GitHub.
 
 ## Stretch
 
